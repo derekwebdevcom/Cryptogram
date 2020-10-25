@@ -1,0 +1,12 @@
+{
+  "name": "Cryptogram",
+  "displayName": "Cryptogram",
+  "expo": {
+    "name": "Cryptogram",
+    "slug": "Cryptogram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
